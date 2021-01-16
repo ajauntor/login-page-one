@@ -69,6 +69,13 @@ body{
     color: rgb(202, 183, 98);
     line-height: 30px;
 }
+small{
+    color: #fff;
+}
+small a{
+    color:  rgb(202, 183, 98) ;
+    text-decoration: none;
+}
 .login-form a:hover{
    text-decoration:underline ;
    color: white;
