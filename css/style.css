@@ -4,7 +4,7 @@ body{
 }
 .login-form{
     width: 320px;
-    height: 400px;
+    height: 419px;;
     background: rgb(44, 49, 49, 0.5);
     color:#fff;
     top: 50%;
@@ -69,8 +69,9 @@ body{
     color: rgb(202, 183, 98);
     line-height: 30px;
 }
-.hmm{
-    color: gold;
+p .hmm{
+    color: rgb(255, 255, 255);
+    margin-left: 89px;
 }
 }
 .login-form a:hover{
